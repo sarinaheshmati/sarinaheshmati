@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sarina</h1>
 <h3 align="center">A passionate Computer Science student and AI researcher</h3>
 
-<div style="text-align: right;">
+<div style="text-align: middle;">
   <img src="https://github.com/user-attachments/assets/1d018ec1-a8b0-4b12-adaf-51bf95004798" width="400">
 </div>
 
