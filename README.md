@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sarina</h1>
 <h3 align="center">A passionate Computer Science student and AI researcher</h3>
 
-<div style="img-align: middle;">
-  <img src="https://github.com/user-attachments/assets/1d018ec1-a8b0-4b12-adaf-51bf95004798" width="400">
-</div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarinaheshmati&label=Profile%20views&color=0e75b6&style=flat" alt="sarinaheshmati" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
