@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Sarina</h1>
-<h3 align="center">A passionate Computer Science and AI researcher</h3>
+<h3 align="center">A passionate Computer Science student and AI researcher</h3>
+
+(img align="right" alt="Coding" width="400" src="(https://giphy.com/gifs/hpXdHPfFI5wTABdDx9)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarinaheshmati&label=Profile%20views&color=0e75b6&style=flat" alt="sarinaheshmati" /> </p>
 
