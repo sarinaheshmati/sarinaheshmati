@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sarina</h1>
 <h3 align="center">A passionate Computer Science student and AI researcher</h3>
 
-(img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlkeXBjZTVhcHl6cW80emprbGpnMm1oZTl0N2hzamMxZjY2OGtpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp")
+(img align="right" alt="Coding" width="400" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlkeXBjZTVhcHl6cW80emprbGpnMm1oZTl0N2hzamMxZjY2OGtpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp]")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarinaheshmati&label=Profile%20views&color=0e75b6&style=flat" alt="sarinaheshmati" /> </p>
 
