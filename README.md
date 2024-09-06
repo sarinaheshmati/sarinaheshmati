@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sarina</h1>
 <h3 align="center">A passionate Computer Science student and AI researcher</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/69e5f6f9-eeb8-44dd-8d1d-00ead4811146">
+![ezgif-3-b31260eac9-ezgif com-crop](https://github.com/user-attachments/assets/1d018ec1-a8b0-4b12-adaf-51bf95004798)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarinaheshmati&label=Profile%20views&color=0e75b6&style=flat" alt="sarinaheshmati" /> </p>
 
