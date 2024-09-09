@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/53/fd/d3/53fdd326b305f667bbe5272c59f3458c.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/53/fd/d3/53fdd326b305f667bbe5272c59f3458c.gif)](#)
 <h1 align="center">Hi 👋, I'm Sarina</h1>
 <h3 align="center">A passionate Computer Science student and AI researcher</h3>
 
