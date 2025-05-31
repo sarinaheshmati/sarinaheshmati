@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Detecting psychiatric disorders through EEG signals using deep learning techniques.**
+- 🔭 I’m currently working on **Detecting Parkinson’s disease through EEG signals using deep learning techniques.**
 
-- 👯 I’m looking to collaborate on **Innovative and exciting deep learning research projects, specially with a focus on healthcare**
+- 👯 I’m looking to collaborate on **Innovative and exciting research projects, specially with a focus on healthcare**
 
 - 📫 How to reach me **HeshmatiiSarina@gmail.com**
 
