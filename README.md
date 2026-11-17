@@ -7,10 +7,6 @@ My research interests lie at the intersection of **trustworthy machine learning,
 
 Previously, I completed my B.Sc. in Computer Science at **Amirkabir University of Technology (Tehran Polytechnic)**.
 
-### 🌱 Beyond Research
-
-I enjoy exploring new ideas, collaborating on interesting research problems, and doing yoga!
-
 ### 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:SHeshmat@uwaterloo.ca)
