@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarina</h1>
 <h3 align="center">A passionate Computer Science student and AI researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarinaheshmati&label=Profile%20views&color=0e75b6&style=flat" alt="sarinaheshmati" /> </p>
 
 - 🔭 I’m currently working on **Detecting Parkinson’s disease through EEG signals using deep learning techniques.**
 
