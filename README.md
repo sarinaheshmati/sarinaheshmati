@@ -1,9 +1,9 @@
 
 # Hi, I'm Sarina 👋
 
-I'm a **Master of Mathematics (MMath) student in Computer Science** at the [University of Waterloo](https://uwaterloo.ca/computer-science/), where I'm supervised by [Prof. Florian Kerschbaum](https://crysp.uwaterloo.ca/) and am a member of the **Cryptography, Security, and Privacy (CrySP) research group**.
+I'm a **Master of Mathematics (MMath) student in Computer Science** at the University of Waterloo, where I'm supervised by Prof. Florian Kerschbaum and am a member of the [**Cryptography, Security, and Privacy (CrySP) research group**](https://crysp.uwaterloo.ca/).
 
-My research interests lie at the intersection of **trustworthy machine learning, AI security, and generative models**. I'm particularly interested in understanding how machine learning systems work, why they fail, and how we can make them more reliable and secure.
+My research interests lie at the intersection of **trustworthy machine learning, AI security, and generative models**.
 
 Previously, I completed my B.Sc. in Computer Science at **Amirkabir University of Technology (Tehran Polytechnic)**.
 
