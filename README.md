@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarinaheshmati&label=Profile%20views&color=0e75b6&style=flat" alt="sarinaheshmati" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Detecting Parkinson’s disease through EEG signals using deep learning techniques.**
 
 - 👯 I’m looking to collaborate on **Innovative and exciting research projects, specially with a focus on healthcare**
